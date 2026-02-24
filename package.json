@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06incn",
-  "description": "https://scrimba.com/build-a-product-card-with-tailwind-css-c07sjqf1ak/~05zl",
+  "name": "Product-card",
+  "description": "Product card showcasing product information",
   "scripts": {
     "start": "vite",
     "dev": "vite",
