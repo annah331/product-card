@@ -36,4 +36,4 @@ Built to simulate modern e-commerce UI components.
 
 ## 👩🏽‍💻 Author
 Annah Molekoa  
-Junior Full-Stack Developer
+Frontend Developer
